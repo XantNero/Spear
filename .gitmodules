@@ -1,0 +1,18 @@
+[submodule "vendor/spdlog"]
+	path = vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "vendor/imgui"]
+	path = vendor/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "vendor/glm"]
+	path = vendor/glm
+	url = https://github.com/Groovounet/glm/tree/release
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = https://github.com/glfw/glfw/tree/latest
+[submodule "vendor/stb_image"]
+	path = vendor/stb_image
+	url = https://github.com/nothings/stb
+[submodule "vendor/glew"]
+	path = vendor/glew
+	url = https://github.com/nigels-com/glew
